@@ -1,0 +1,13 @@
+{
+  "name": "damo-plugins",
+  "owner": {
+    "name": "DamoDoesGH"
+  },
+  "plugins": [
+    {
+      "name": "deck-review",
+      "source": "./plugins/deck-review",
+      "description": "Generate and review investor pitch decks using Vinod Khosla's storytelling-first methodology - headlines-first drafting, the 5-second test, one message per slide, fear/greed framing, and appendix strategy."
+    }
+  ]
+}

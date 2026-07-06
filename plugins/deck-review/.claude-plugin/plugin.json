@@ -1,0 +1,8 @@
+{
+  "name": "deck-review",
+  "description": "Generate and review investor pitch decks using Vinod Khosla's storytelling-first methodology - headlines-first drafting, the 5-second test, one message per slide, fear/greed framing, and appendix strategy.",
+  "version": "1.0.0",
+  "author": {
+    "name": "DamoDoesGH"
+  }
+}
