@@ -8,7 +8,7 @@ Deadline 2 November 2026, 8pm PT. Brackets are numbers to fill. Copy is lifted f
 
 **Who writes code, or does other technical work on your product? Was any of it done by a non-founder?**
 
-I do, with Claude Code: the Liquid Note, the auction rulebook and simulator, the grant decoder, and a working prototype of all five participant flows. Nobody else has touched it.
+I do, with Claude Code. No non-founder has written any of it.
 
 **Are you looking for a cofounder?**
 
@@ -74,7 +74,7 @@ The companies, the law and the buyers are American.
 
 **How far along are you?**
 
-Built: the Liquid Note, the cap-auction rulebook and simulator (clears at 0.82 of true value vs 0.77 for the best alternative), a prototype of all five participant flows, the grant decoder. [n] founders have agreed to sign. [n] buyers have committed to bid on the first auction. Demo day: 20 signed notes, one cleared auction.
+The standard agreement is drafted, the auction is designed and simulated, and the product is prototyped end to end. [n] founders have agreed to sign. [n] buyers have committed to bid on the first auction. Demo day: 20 signed companies, one cleared auction.
 
 **How long have each of you been working on this? How much of that has been full-time?**
 
