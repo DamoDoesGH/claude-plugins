@@ -1,6 +1,6 @@
-# Liquid: YC Winter 2027 application answers (v4)
+# Liquid: YC Winter 2027 application answers (v5, deck copy)
 
-Deadline 2 November 2026, 8pm PT. Brackets are numbers to fill.
+Deadline 2 November 2026, 8pm PT. Brackets are numbers to fill. Copy is lifted from deck r26 wherever a slide already answers the question.
 
 ---
 
@@ -16,11 +16,13 @@ No.
 
 **Founder video (1 minute)**
 
-I'm Damian. I co-founded DueDil, Founders Pledge and Rho. I've been illiquid through all of it.
+Throughout my career I have cofounded and helped build businesses that dealt with every part of this problem. DueDil built the private-company data layer. Founders Pledge standardised consent before liquidity through one document; $13.6bn pledged. Rho is one of the most successful challenger banks focused on startup spend. I have been illiquid through all of it.
 
-Only 200 companies trade in a $9.4 trillion market. Every sale needs a signature from someone with no reason to give it, and every marketplace that tried to fix this went after the same 200 names.
+Only about 200 companies trade in a $9.4tn market. People assume illiquidity in the private markets is a feature, not a bug. It hurts all market participants.
 
-Liquid is one document, signed at formation, that makes a company's shares sellable twice a year in a sealed auction. SAFEs standardized money in. Liquid standardizes equity out.
+Previous approaches misunderstood the problem. To build a marketplace you need standardized supply. To get standardized supply you need consent from founders and investors. We get it at formation.
+
+SAFEs standardize money in. Liquid standardizes equity out.
 
 ---
 
@@ -32,7 +34,9 @@ Liquid
 
 **Describe what your company does in 50 characters or less.**
 
-The SAFE for selling private startup shares.
+SAFEs standardize money in. We standardize equity out.
+
+(49 characters.)
 
 **Company URL**
 
@@ -44,11 +48,17 @@ The SAFE for selling private startup shares.
 
 **What is your company going to make? Please describe your product and what it does or will do.**
 
-Only 200 companies trade in a $9.4tn market, because every sale needs consent that nobody standardized.
+Only about 200 companies trade in a $9.4tn market. 20% of the names capture 86% of the secondary value.
 
-The Liquid Note is a free standard document signed once at formation. It grants transfer consent in advance. Nobody has to sell; the company never sets a price.
+We're building a secondary market from the ground up.
 
-Twice a year, every signed company auctions on the same day. Sellers name their cash and a floor cap, buyers their cash and a ceiling cap, each company clears where the most cash moves. Sellers get cash in 72 hours; the next round sets the share price up to the cap. We warrant the numbers, a registered broker-dealer settles. Companies pay nothing. Sellers pay 2%.
+Standardise supply. One agreement that establishes consent at formation, without requiring companies to offer liquidity.
+
+Concentrate demand. Two auctions a year. Every company that opts in goes to market on the same day, so a fund that would never come for one company comes for 800.
+
+Liquidity now, pricing later. Employees receive cash now; the next round sets the price, up to a cap the auction sets.
+
+Companies pay nothing. Sellers pay 2% only on completed transactions.
 
 **Where do you live now, and where would the company be based after YC?**
 
@@ -64,7 +74,7 @@ The companies, the law and the buyers are American.
 
 **How far along are you?**
 
-Built: the Note, the cap-auction rulebook and simulator (clears at 0.82 of true value vs 0.77 for the best alternative), a prototype of all five participant flows, the grant decoder. [n] founders have agreed to sign. [n] buyers have committed to bid on the first auction. Demo day: 20 signed notes, one cleared auction.
+Built: the Liquid Note, the cap-auction rulebook and simulator (clears at 0.82 of true value vs 0.77 for the best alternative), a prototype of all five participant flows, the grant decoder. [n] founders have agreed to sign. [n] buyers have committed to bid on the first auction. Demo day: 20 signed notes, one cleared auction.
 
 **How long have each of you been working on this? How much of that has been full-time?**
 
@@ -96,21 +106,25 @@ No.
 
 **Why did you pick this idea to work on? Do you have domain expertise? How do you know people need what you're making?**
 
-I have done each part once. Founders Pledge: one standard document signed at formation, 2,300 founders, $13.6bn pledged. DueDil: Europe's private-company data layer, exited to nCino. Rho: the business bank for startups.
+Throughout my career I have cofounded and helped build businesses that dealt with every part of this problem. Data: DueDil built the private-company data layer; exited to nCino. Consent: Founders Pledge standardised consent before liquidity through one document; $13.6bn pledged. Infrastructure: Rho, one of the most successful challenger banks focused on startup spend.
 
-Illiquidity hurts everyone. Founders overpay in equity to beat liquid RSUs. Employees hold lottery tickets: 16,538 sold into tenders in 2025 out of a million on Carta. LPs only believe in DPI. Founders are the blocker, so I sell to founders first. [n] of [n] asked said yes.
+Illiquidity hurts all market participants. Founders: prospective employees discount equity, forcing larger grants and greater dilution; option grants get outbid by public RSUs. Employees: equity divorced from value, with no reliable way to sell it or diversify. 16,538 sold into tenders in 2025, out of roughly a million on Carta. Investors: delayed exits postpone LP distributions and GP carry, making subsequent funds harder to raise.
+
+The incentives of the people who block these sales have changed. AI competition makes equity more expensive; liquidity is another way to compete for talent. Unauthorised exposure gives founders a reason to offer access on terms they control. Tender adoption gives founders and counsel precedent. [n] of [n] founders asked have said yes.
 
 **Who are your competitors? What do you understand about your business that they don't?**
 
-Forge, Hiive, Nasdaq Private Market, Carta, SecondMarket.
+Previous approaches misunderstood the problem.
 
-They all went after the same 200 names instead of getting every company to sign one thing. SecondMarket skipped consent and Facebook shut it down. Forge solved matching, not consent: $17bn in twelve years against $9.4tn. Carta was administrator and broker at once. Nasdaq does consent by hand at $150-400k an event.
+SecondMarket listed shares without company consent. Facebook and Twitter blocked trading. Forge solved matching, not consent; approvals remained manual, costly and negotiated trade by trade. Carta acted as both trusted administrator and broker, which created conflicts and undermined the trust needed for consent. Robinhood tried to bypass company consent with synthetic exposure. Companies pushed back.
 
-Consent is only cheap at formation. Supply first; demand follows. A fund that would never come for one company comes for 800 on one day.
+To build a marketplace you need standardized supply. To get standardized supply you need consent from founders and investors. Consent costs nothing at formation and everything at the trade. Nobody asked at formation.
 
 **How do or will you make money? How much could you make?**
 
-Sellers pay 2% of cash cleared. Companies pay nothing to sign; $200/month warrants their numbers, $12k/year books two auctions. Year three: 1,200 auctions at a $4m median, $96m, plus $30m in subscriptions and data. Venture equity turns over 2% a year, $188bn. Houses turn over 4.4%. At that rate the market is $414bn.
+Companies pay nothing. Sellers pay 2% only on completed transactions; $200/month warrants a company's numbers, $12k/year books two auctions. Year three: 1,200 auctions at a $4m median, $96m, plus $30m in subscriptions and data.
+
+Venture is a small asset class because it barely trades. 2.0% of venture-backed value changes hands in a year, about $188bn. At housing's rate, 4.4%, that is roughly $414bn a year. At listed equities' rate, 68%, roughly $6.4tn. If you can fix secondaries, you can restructure the market for private capital.
 
 **Other ideas you considered applying with?**
 
@@ -138,7 +152,7 @@ No.
 
 **What convinced you to apply to Y Combinator? Did someone encourage you? Have you been to any YC events?**
 
-The SAFE became the default by being better, not mandatory. Liquid is the same bet on the other side of the cap table, and the batch is where founders are at formation. [Jeff Cruttenden encouraged me.]
+SAFEs standardize money in. Liquid standardizes equity out. The batch is where founders are at formation, when consent costs nothing to give. [Jeff Cruttenden encouraged me.]
 
 **How did you hear about Y Combinator?**
 
