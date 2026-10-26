@@ -16,7 +16,7 @@ No.
 
 **Founder video (1 minute)**
 
-Throughout my career I have cofounded and helped build businesses that dealt with every part of this problem. DueDil built the private-company data layer. Founders Pledge standardised consent before liquidity through one document; $13.6bn pledged. Rho is one of the most successful challenger banks focused on startup spend. I have been illiquid through all of it.
+Throughout my career I have cofounded and helped build businesses that dealt with every part of this problem. DueDil built the private-company data layer. Founders Pledge standardised consent before liquidity through one document; $13.6bn pledged. Rho is one of the most successful challenger banks focused on startup spend.
 
 Only about 200 companies trade in a $9.4tn market. People assume illiquidity in the private markets is a feature, not a bug. It hurts all market participants.
 
