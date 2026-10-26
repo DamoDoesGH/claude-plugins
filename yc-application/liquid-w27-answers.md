@@ -34,9 +34,9 @@ Liquid
 
 **Describe what your company does in 50 characters or less.**
 
-SAFEs standardize money in. We standardize equity out.
+SAFEs standardize money in. Liquid, equity out.
 
-(49 characters.)
+(47 characters.)
 
 **Company URL**
 
